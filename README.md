@@ -28,7 +28,8 @@ Este é um projeto simples desenvolvido com **React** para gerenciamento de tare
 
 5. O projeto estará disponível em http://localhost:3000.
 
-![Captura de tela 2025-03-23 154900](https://github.com/user-attachments/assets/7121623b-734e-482f-a66b-e0434cf027bc)
-![Captura de tela 2025-03-23 153649](https://github.com/user-attachments/assets/81355a1f-b73b-4a11-b83c-a9cd999c204b)
-![Captura de tela 2025-03-23 153609](https://github.com/user-attachments/assets/c4080080-dada-49af-ab03-974c3affabf7)
-![Captura de tela 2025-03-23 153547](https://github.com/user-attachments/assets/69d904ac-c53f-4bdf-a118-8634a007d291)
+![image](https://github.com/user-attachments/assets/d751feba-b382-468e-aa4b-70b528c987e5)
+![image](https://github.com/user-attachments/assets/72552b7e-2f6a-46b2-b4fa-1ea829adc274)
+![image](https://github.com/user-attachments/assets/20544549-05b5-45f3-9671-3902ebac13a6)
+![image](https://github.com/user-attachments/assets/09d95acb-e3e4-47c7-a739-5c686871e9da)
+
